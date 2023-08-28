@@ -1,2 +1,2 @@
 # Projects
- INformatics Projects
+ Informatics Projects
